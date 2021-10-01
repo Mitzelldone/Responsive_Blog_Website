@@ -561,8 +561,7 @@ footer.footer .follow .fa-youtube:hover{
 /*         Viewport less then or equal to 520px           */
 
 @media only screen and (max-width: 520px){
-    main .blog{
-        border:1px solid red;
+    main .blog{      
         height:80vh;        
     }
 
