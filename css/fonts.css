@@ -1,0 +1,30 @@
+
+/* font-family:Roboto */
+@font-face {
+    font-family:Roboto;
+    src:url('../fonts/Roboto/Roboto-Regular.ttf');
+}
+
+/*  font-family:Anton */
+@font-face {
+    font-family:Anton;
+    src:url('../fonts/Anton/Anton-Regular.ttf');
+}
+/*  font-family:Abel */
+@font-face {
+    font-family:Abel;
+    src:url('../fonts/Abel/Abel-Regular.ttf');
+}
+/*  font-family:Josefin */
+@font-face {
+    font-family:Josefin;
+    src:url('../fonts/Josefin\ Sans/JosefinSans-VariableFont_wght.ttf');
+}
+/*  font-family:Lexend Deca */
+@font-face {
+    font-family:Lexend;
+    src:url('../fonts/Lexend\ Deca/LexendDeca-VariableFont_wght.ttf');
+}
+
+
+
