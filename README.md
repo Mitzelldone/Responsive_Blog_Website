@@ -1,6 +1,6 @@
 # Responsive Blog Website
 ## Demo
-👉Website demo: https://mitzelldone.github.io/Responsive_Blog_Website/Index.html
+### 👉Website demo: https://mitzelldone.github.io/Responsive_Blog_Website/Index.html
 ![screenshot](./assets/blog-webpage.jpg.png)
 ## Technology
 - [FontAwesome version 5.15.4](https://fontawesome.com/)
